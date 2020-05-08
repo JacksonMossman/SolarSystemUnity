@@ -1,3 +1,3 @@
 # SolarSystemWorking
  
-https://jacksonmossman.github.io/SolarSystemWorking/player/
+https://jacksonmossman.github.io/SolarSystemWorking/Player/
